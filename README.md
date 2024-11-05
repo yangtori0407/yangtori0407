@@ -21,6 +21,9 @@ Here are some ideas to get you started:
   height="300"
 />
 </a>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/yangtori0407"/>
+</a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangtori0407&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 </br>
 <img src="https://github-readme-stats.vercel.app/api?username=yangtori0407&theme=tokyonight&show_icons=true" width="42%" />
