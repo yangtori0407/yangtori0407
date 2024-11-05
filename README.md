@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/yangtori0407"
-    width="600"
-    height="400"
-  />
+<img
+  src="https://render.gitanimals.org/farms/yangtori0407"
+  width="600"
+  height="300"
+/>
 </a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangtori0407&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 </br></br>
