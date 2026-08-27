@@ -15,11 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&pause=1000&color=1AF7D0&background=93FDFF00&center=true&width=680&height=55&lines=Welcome+to+Eunyoung's+GitHub!;Backend+Developer+%F0%9F%92%BB;Java+%7C+Spring+%7C+Data+Analysis" alt="Typing SVG" />
-</p>
-
-<p align="center">백엔드 중심으로 협업하는 개발자입니다. 데이터 분석과 웹 서비스 개발을 함께 공부하고 있습니다.</p>
+<h1 align="center">양은영</h1>
+<p align="center">꾸준히 성장하는 개발자입니다.</p>
 
 ---
 
