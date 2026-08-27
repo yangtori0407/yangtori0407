@@ -71,17 +71,6 @@ Here are some ideas to get you started:
 ## 📊 GitHub 통계
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yangtori0407&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangtori0407&layout=compact&hide_border=true" height="165"/>
-</p>
-
----
-
----
-
-## 📊 GitHub 통계
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=yangtori0407&theme=default&hide_border=true" alt="GitHub Streak"/>
 </p>
 
@@ -92,7 +81,9 @@ Here are some ideas to get you started:
 <p align="left">
   <a href="https://github.com/yangtori0407"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
+
 ---
+
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/yangtori0407"/>
 </a>
