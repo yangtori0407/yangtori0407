@@ -55,14 +55,6 @@ Here are some ideas to get you started:
 
 ---
 
-## 📊 GitHub 통계
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=yangtori0407&theme=default&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
 ## 📫 Contact
 
 <p align="left">
