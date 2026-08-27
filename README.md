@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&pause=1000&color=1AF7D0&background=93FDFF00&center=true&width=680&height=55&lines=Welcome+to+Eunyoung's+GitHub!;Backend+Developer+%F0%9F%92%BB;Java+%7C+Spring+%7C+Data+Analysis" alt="Typing SVG" />
-</p>
 
 <p align="center">꾸준히 성장하는 개발자입니다!</p>
 
@@ -66,7 +64,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
 </p>
 
 ---
@@ -83,23 +80,12 @@ Here are some ideas to get you started:
 
 ## 🎓 활동 및 이력
 
-| 구분 | 활동명 | 기간 | 성장 역량 |
-|---|---|---|---|
-| 대외활동 | 한국폴리텍대학 광명융합기술원 데이터분석과 | 2026.03.02 ~ | 공동체 정신 · 도전정신 · 열정 · 전문성 · 커뮤니케이션/협력 |
-| 대외활동 | 구디 아카데미 | 2024.12.23 ~ 2025.07.10 | 열정 · 전문성 · 책임감 · 커뮤니케이션/협력 |
-| 교내활동 | GDG on Campus | 2024.09.09 ~ 2024.12.16 | 커뮤니케이션/협력 |
-| 교내활동 | 멋쟁이 사자처럼 12기 | 2024.01.01 ~ 2024.12.31 | 도전정신 · 커뮤니케이션/협력 |
-
----
-
-## 📊 GitHub 통계
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yangtori0407&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangtori0407&layout=compact&hide_border=true" height="165"/>
-</p>
-
----
+| 활동명 | 기간 |
+|---|---|---|
+| 한국폴리텍대학 광명융합기술원 데이터분석과 | 2026.03.02 ~ |
+| 구디 아카데미 | 2024.12.23 ~ 2025.07.10 |
+| GDG on Campus | 2024.09.09 ~ 2024.12.16 |
+| 멋쟁이 사자처럼 12기 | 2024.01.01 ~ 2024.12.31 |
 
 ---
 
@@ -125,6 +111,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/yangtori0407"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
+---
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/yangtori0407"/>
 </a>
