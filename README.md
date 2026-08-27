@@ -33,7 +33,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 ### 🛠 Tools
@@ -42,7 +41,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
 </p>
 
 ---
@@ -61,7 +59,7 @@ Here are some ideas to get you started:
 
 | 활동명 | 기간 |
 |---|---|
-| 한국폴리텍대학 광명융합기술원 데이터분석과 | 2026.03.02 ~ |
+<!-- | 한국폴리텍대학 광명융합기술원 데이터분석과 | 2026.03.02 ~ | -->
 | 구디 아카데미 | 2024.12.23 ~ 2025.07.10 |
 | GDG on Campus | 2024.09.09 ~ 2024.12.16 |
 | 멋쟁이 사자처럼 12기 | 2024.01.01 ~ 2024.12.31 |
